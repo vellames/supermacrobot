@@ -1,0 +1,4 @@
+macro,macros/fromHomeToAltarOfTime.txt,1
+#
+#
+macro,macros/loopAltarOfTime.txt,6

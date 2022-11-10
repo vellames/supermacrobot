@@ -1,0 +1,12 @@
+click,imgs/start_consecutive_battle_br_icon.png
+sleep,220
+click,imgs/quit_button.png
+sleep,3
+click,imgs/altar_of_time_claim.png
+sleep,3
+click,imgs/confirm_button.png
+sleep,3
+click,imgs/claim_dialog_title.png
+sleep,3
+click,imgs/consecutive_battle_br_icon.png
+sleep,3

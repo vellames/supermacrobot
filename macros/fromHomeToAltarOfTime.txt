@@ -1,0 +1,8 @@
+click,imgs/battle_br_icon.png
+sleep,3
+click,imgs/battle_challenge_menu_br_icon.png,imgs/battle_challenge_menu_br_icon_fb1.png
+sleep,3
+click,imgs/altar_of_time_menu_br_icon.png
+sleep,3
+click,imgs/consecutive_battle_br_icon.png
+sleep,3
